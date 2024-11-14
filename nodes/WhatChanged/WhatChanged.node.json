@@ -1,0 +1,6 @@
+{
+	"node": "n8n-nodes-what-changed",
+	"nodeVersion": "0.1.0",
+	"codexVersion": "0.1.0",
+	"categories": ["transform"]
+}
